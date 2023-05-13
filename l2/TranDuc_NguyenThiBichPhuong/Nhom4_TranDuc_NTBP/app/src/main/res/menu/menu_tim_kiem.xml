@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuMaNhanVien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ma_nhan_vien_icon"
+        android:title="Mã nhân viên"></item>
+    <item
+        android:id="@+id/mnuHoTen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ho_ten_icon"
+        android:title="Họ tên"></item>
+    <item
+        android:id="@+id/mnuCMND"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/cmnd_icon"
+        android:title="Số CMND"></item>
+    <item
+        android:id="@+id/mnuPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/phone_icon"
+        android:title="Số phone"></item>
+    <item
+        android:id="@+id/mnuEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/email_icon"
+        android:title="Email"></item>
+    <item
+        android:id="@+id/mnuNguyenQuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/nguyen_quan_icon"
+        android:title="Nguyên quán"></item>
+</menu>

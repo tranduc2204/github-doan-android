@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuTatCa"
+        android:icon="@drawable/hierarchy"
+        android:title="Tất Cả" />
+    <item
+        android:id="@+id/mnuTaiChinh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/tai_chinh_icon"
+        android:title="Phòng Tài Chính"></item>
+    <item
+        android:id="@+id/mnuKyThuat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ky_thuat_icon"
+        android:title="Phòng Kỹ Thuật"></item>
+    <item
+        android:id="@+id/mnuNhanSu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/nhan_su_icon"
+        android:title="Phòng Nhân Sự"></item>
+    <item
+        android:id="@+id/mnuKinhDoanh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/kinh_doanh_icon"
+        android:title="Phòng Kinh Doanh"></item>
+</menu>

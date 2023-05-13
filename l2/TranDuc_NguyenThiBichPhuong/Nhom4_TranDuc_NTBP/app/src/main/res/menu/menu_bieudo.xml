@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuPhongBan"
+        android:icon="@drawable/hierarchy"
+        android:title="PHÒNG BAN" />
+    <item
+        android:id="@+id/mnuGioiTinh"
+        android:icon="@drawable/genderaaa"
+        android:title="GIỚI TÍNH" />
+    <item
+        android:id="@+id/mnuHonNhan"
+        android:icon="@drawable/relationshipaaaa"
+        android:title="HÔN NHÂN" />
+</menu>

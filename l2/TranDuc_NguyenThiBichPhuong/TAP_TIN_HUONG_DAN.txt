@@ -1,0 +1,9 @@
+- Mã lớp học phần: 2231112006001
+
+- Mã SV 1: 2021010131 - Trần Đức
+
+- Mã SV 2: 2021010266- Nguyễn Thị Bích Phượng
+
+- Tên đề tài: XÂY DỰNG CHƯƠNG TRÌNH ANDROID ỨNG DỤNG SQLITE ĐỂ QUẢN LÝ
+HOẠT ĐỘNG CHẤM CÔNG TÍNH LƯƠNG CỦA NHÂN VIÊN TẠI CÔNG TY FPT SOFTWARE
+
